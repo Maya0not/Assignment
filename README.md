@@ -15,6 +15,7 @@ vertex from the stack.</li>
   <li>When the stack becomes Empty, then produce the final spanning tree by
 removing unused edges from the graph</li>
 </ol>
+
 ### Depth First Search: Graph and Adjacency matrix
 
 Let's consider the following graph to understand DFS traversal. And creat an adjacency matrix from this graph to generate input for the code
